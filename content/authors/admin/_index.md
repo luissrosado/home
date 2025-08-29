@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Luís Rosado
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Luís
+last_name: Rosado
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Elecronics Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Instituto Superior Técnico, University of Lisbon 
+    url: 'https://tecnico.ulisboa.pt/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
