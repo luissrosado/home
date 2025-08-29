@@ -64,7 +64,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Luís Filipe Soldado Granadeiro Rosado, born on November 26, 1986, completed a MSc. degree in Electronic Engineering at the Instituto Superior Técnico (IST), University of Lisbon (UL) in November 2009 with a final grade of 19 out of 20. His MSc. thesis focused on the domain of sensors, electronic circuits and systems, and algorithms for Eddy Current Non-Destructive Testing (NDT). His thesis work received a grade of 20 out of 20 and was awarded the Professor Luís Vidigal Prize 2008/2009 for the best MSc. thesis in the fields of Electrical and Computer Engineering (ECE) and Informatics at IST.
